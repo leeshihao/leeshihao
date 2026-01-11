@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-I'm currently studying at Cornell Tech.
+I recently graduated with a MS in Computer Science from Cornell Tech.
 
 Coursework:
-- Spring '25: Blockchain, Trust & Safety, Building Startup Systems
+- Spring '25: Building Startup Systems, Blockchain, Trust & Safety 
 - Fall '24: Machine Learning Engineering, Networks and Markets (Game theory & Graph theory), HCI and Design, Privacy. 
 
 I previously did my undergraduate studies at UC Berkeley in CS + applied math, and did NLP research with the [Nucscholar](https://nucscholar.berkeley.edu/about/) team. 
